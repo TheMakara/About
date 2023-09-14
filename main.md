@@ -10,7 +10,7 @@
 const Makara = {
     Name: 'Anıl',
     Country: 'Bulgaristan',
-    Age: '16',
+    Age: '17',
     FavoriteLanguage: "Graphıc Desıgner , Python",
     },
     //Tanışmak isteyen olursa discordum yukarıda .d
