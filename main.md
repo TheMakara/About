@@ -53,10 +53,10 @@ const Makara = {
 <p align="center">
 
 
-  <h3> I'm 16 years old Full-Stack designer from turkey</h3>
+  <h3> I'm 17 years old Full-Stack designer from turkey</h3>
 </p>
 
- - 🥀 Learning Adobe & JavaScript & c++
+ - 🥀 Learning Adobe & JavaScript & c++ & Python & html
  
  - <i>I am actively developing myself on these issues.</i>
 
