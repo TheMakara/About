@@ -2,7 +2,7 @@
 </p>
 <p align="center">
   <a href="https://discord.com/users/741741833763422299">
-    <img src="https://lanyard.cnrad.dev/api/741741833763422299"alt="Discord Profile"/>   
+    <img src="[https://lanyard.cnrad.dev/api/741741833763422299](https://api.lanyard.rest/v1/users/741741833763422299)"alt="Discord Profile"/>   
   </a>
 </p>
 
