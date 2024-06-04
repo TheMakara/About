@@ -1,17 +1,17 @@
 
 </p>
 <p align="center">
-  <a href="https://discord.com/users/958029787820085278">
-    <img src="https://lanyard.cnrad.dev/api/958029787820085278"alt="Discord Profile"/>   
+  <a href="https://discord.com/users/741741833763422299">
+    <img src="https://lanyard.cnrad.dev/api/741741833763422299"alt="Discord Profile"/>   
   </a>
 </p>
 
 ```js
 const Makara = {
     Name: 'Anıl',
-    Country: 'Bulgaristan',
-    Age: '17',
-    FavoriteLanguage: "Graphıc Desıgner , Python",
+    Country: 'Bulgaria',
+    Age: '18',
+    FavoriteLanguage: "Graphic Desıgner , Python + c++ + html",
     },
     //Tanışmak isteyen olursa discordum yukarıda .d
 ```
@@ -53,7 +53,7 @@ const Makara = {
 <p align="center">
 
 
-  <h3> I'm 17 years old Full-Stack designer from turkey</h3>
+  <h3> I'm 18 years old Full-Stack designer from turkey</h3>
 </p>
 
  - 🥀 Learning Adobe & JavaScript & c++ & Python & html
